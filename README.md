@@ -1,4 +1,5 @@
 This is a Three.js project ,it has a white plane as background and has grids on it ,you get a Complete ,Copy ,Reset button.
+
 How it works:
 1. Open the HTML file ,you will be directed to webpage.
 2. Right click on the screen to create vertices (when two vertices are created it forms a line.
